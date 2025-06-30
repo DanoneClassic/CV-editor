@@ -4,7 +4,7 @@
 
 ## Демо
 
-**[Попробовать онлайн](https://your-deployed-url.vercel.app)**
+**[Попробовать онлайн](https://cv-editor-zeta.vercel.app/)**
 
 ## Функциональность
 
